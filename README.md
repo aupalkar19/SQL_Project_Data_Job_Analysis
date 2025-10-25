@@ -317,6 +317,7 @@ By applying SQL effectively, we can extract **insights that drive both career pl
 
 ### 🧾 Author
 **Aditya Upalkar**  
-SQL Final Project — Data Analyst Job Market Analysis  [Under Supervision of Luke Barousse ](https://www.linkedin.com/in/luke-b/)  
+SQL Final Project — Data Analyst Job Market Analysis  
+[Under Supervision of Luke Barousse ](https://www.linkedin.com/in/luke-b/)  
  © 2025
 
